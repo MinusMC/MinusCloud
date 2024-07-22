@@ -40,7 +40,7 @@
             "locales.zip"
         ]
     },
-    "dev": {
+    "0.8": {
         "platforms": {
             "win64": {
                 "chrome_100_percent.pak": "c59bfefc6fcc67ba21e53759ac21df8b5c73db52",
@@ -68,6 +68,6 @@
     },
     "latestVersions": {
         "1.8": "0.7",
-        "1.8.9": "dev"
+        "1.8.9": "0.8"
     }
 }
