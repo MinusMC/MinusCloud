@@ -40,7 +40,34 @@
             "locales.zip"
         ]
     },
+    "dev": {
+        "platforms": {
+            "win64": {
+                "chrome_100_percent.pak": "c59bfefc6fcc67ba21e53759ac21df8b5c73db52",
+                "chrome_200_percent.pak": "da153a92a2fe9fb27b52eae7f9336cd0726dbe5e",
+                "chrome_elf.dll": "0aac8a975932166d8a0f949b5d6d66a04abfc434",
+                "d3dcompiler_47.dll": "7fea3a5664ddb084d42eaaa85fbee2dda18c5c80",
+                "icudtl.dat": "05dfea2a3afeda799ab01bb7fbce628cacd596f4",
+                "jcef.dll": "011c9db3208081783ccdc90d5e7b21d433873ca5",
+                "jcef_helper.exe": "4812128ceefbb02214fa0e6b33bf892039311656",
+                "libcef.dll": "8f0cd362985f115b17a0efb862f26da4748a755b",
+                "libEGL.dll": "1c4f927d892e5d6c25e3236f8b72d61056f33601",
+                "libGLESv2.dll": "2d477d414479668cb27c5e4a0ddf39648966701d",
+                "locales.zip": "7cf3bb6642eb1803ee3d24a2b25813c391f1eef0",
+                "resources.pak": "b9867617407747b97c98cf4965eac2a0548a02af",
+                "snapshot_blob.bin": "cbb5115382eb4807d9624709dfa25c6872910cc5",
+                "v8_context_snapshot.bin": "807c510a88de2b421341b0f1de05fc1578a759a4",
+                "vk_swiftshader.dll": "a197074d9fd124ef79730d91481c19777e424ef3",
+                "vk_swiftshader_icd.json": "9c06735c31cec00600fd763a92f8112d085bd12a",
+                "vulkan-1.dll": "455925f4eb841c0819a6a1b645f90c943ee30bc6"
+            }
+        },
+        "extract": [
+            "locales.zip"
+        ]
+    },
     "latestVersions": {
-        "1.8": "0.7"
+        "1.8": "0.7",
+        "1.8.9": "dev"
     }
 }
