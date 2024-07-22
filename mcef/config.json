@@ -1,0 +1,46 @@
+{
+  "0.7": {
+    "platforms": {
+      "win32": {
+        "cef.pak": "bf5cc1d5680bb54e1da2d929f594e000be7bd603",
+        "cef_100_percent.pak": "0dfe006cc932c630d23cd703b4095c6498ddd319",
+        "cef_200_percent.pak": "336054dd43a6c3f99bdcf41052f7b96010cbb06b",
+        "d3dcompiler_43.dll": "98be17e1d324790a5b206e1ea1cc4e64fbe21240",
+        "d3dcompiler_46.dll": "ee2f5726ac140fb42d17aba033d678afaf8c39c1",
+        "devtools_resources.pak": "335dbaaefa0c5413effed32c1d3f3f3422064203",
+        "ffmpegsumo.dll": "19a5e8a58c2a26a1a4039614caf10b06421a3b00",
+        "icudtl.dat": "22c8b378d1695e0f94ae8d52c9480eccff92f62c",
+        "jcef.dll": "789bd94ecfc44cf6c1ee18f0e59c642dc5a6dcbb",
+        "jcef_helper.exe": "5fb83042acede7748f4f9a4a303b8b932fc3c902",
+        "libcef.dll": "ea5e5f3b49b105def4414bbd666ff36b3082067f",
+        "libEGL.dll": "9e9815099d406a49441759254f71f2103ead9eb6",
+        "libGLESv2.dll": "09d7f627d2d100347f21163682c4ef8a01774ae5",
+        "locales.zip": "d541cbec7113ec14d3a7f79b10be67e27ac37cee",
+        "pdf.dll": "69ca1429ade0be98ec253c5f58b76a8943b0dad4"
+      },
+      "win64": {
+        "cef.pak": "bf5cc1d5680bb54e1da2d929f594e000be7bd603",
+        "cef_100_percent.pak": "0dfe006cc932c630d23cd703b4095c6498ddd319",
+        "cef_200_percent.pak": "336054dd43a6c3f99bdcf41052f7b96010cbb06b",
+        "d3dcompiler_43.dll": "98be17e1d324790a5b206e1ea1cc4e64fbe21240",
+        "d3dcompiler_46.dll": "9ced490f112005df9576d16ee06d8004db44afbe",
+        "devtools_resources.pak": "335dbaaefa0c5413effed32c1d3f3f3422064203",
+        "ffmpegsumo.dll": "19a5e8a58c2a26a1a4039614caf10b06421a3b00",
+        "icudtl.dat": "22c8b378d1695e0f94ae8d52c9480eccff92f62c",
+        "jcef.dll": "789bd94ecfc44cf6c1ee18f0e59c642dc5a6dcbb",
+        "jcef_helper.exe": "5fb83042acede7748f4f9a4a303b8b932fc3c902",
+        "libcef.dll": "ea5e5f3b49b105def4414bbd666ff36b3082067f",
+        "libEGL.dll": "9e9815099d406a49441759254f71f2103ead9eb6",
+        "libGLESv2.dll": "09d7f627d2d100347f21163682c4ef8a01774ae5",
+        "pdf.dll": "69ca1429ade0be98ec253c5f58b76a8943b0dad4",
+        "locales.zip": "d541cbec7113ec14d3a7f79b10be67e27ac37cee"
+      }
+    },
+    "extract": [
+      "locales.zip"
+    ]
+  },
+  "latestVersions": {
+    "1.8": "0.7",
+  }
+}
